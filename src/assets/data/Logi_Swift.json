@@ -1,0 +1,685 @@
+{
+  "name": "LogiSwift",
+  "industry": "Logistics",
+  "founder": "Jordan Lee",
+  "location": "Atlanta",
+  "founded_year": 2022,
+  "logo": "/Logo/LogiSwift_Logo.jpg",
+  "description": "LogiSwift is a logistics startup specializing in optimizing delivery routes and providing cutting-edge supply chain solutions. The company leverages real-time data analytics and advanced algorithms to enhance efficiency, reduce costs, and ensure timely deliveries for businesses of all sizes.",
+  "vision": "Our vision is to revolutionize logistics with intelligent, real-time analytics that optimize delivery routes, reduce costs, and ensure timely deliveries for businesses of all sizes.",
+  "our_values": [
+    {
+      "title": "Optimized Logistics",
+      "description": "We specialize in improving delivery routes and supply chains to maximize efficiency and minimize costs."
+    },
+    {
+      "title": "Real-Time Insights",
+      "description": "Our solutions utilize real-time data analytics to provide actionable insights and ensure timely deliveries."
+    },
+    {
+      "title": "Scalable Solutions",
+      "description": "From small businesses to large enterprises, we offer scalable logistics solutions tailored to diverse needs."
+    }
+  ],
+  "performance_metrics": {
+    "sales_summary": {
+      "total_sales": "$10k",
+      "total_orders": 1200,
+      "products_sold": 50,
+      "new_customers": 35
+    },
+    "total_revenue": {
+      "weekly": {
+        "Monday": {
+          "online": 18000,
+          "offline": 8000
+        },
+        "Tuesday": {
+          "online": 20000,
+          "offline": 9000
+        },
+        "Wednesday": {
+          "online": 15000,
+          "offline": 10000
+        },
+        "Thursday": {
+          "online": 19000,
+          "offline": 11000
+        },
+        "Friday": {
+          "online": 17000,
+          "offline": 13000
+        },
+        "Saturday": {
+          "online": 22000,
+          "offline": 15000
+        },
+        "Sunday": {
+          "online": 24000,
+          "offline": 16000
+        }
+      },
+      "monthly": {
+        "Week 1": {
+          "online": 85000,
+          "offline": 40000
+        },
+        "Week 2": {
+          "online": 87000,
+          "offline": 42000
+        },
+        "Week 3": {
+          "online": 89000,
+          "offline": 45000
+        },
+        "Week 4": {
+          "online": 91000,
+          "offline": 47000
+        }
+      }
+    },
+    "revenue": {
+      "monthly": {
+        "January": {
+          "online": 90000,
+          "offline": 50000
+        },
+        "February": {
+          "online": 87000,
+          "offline": 48000
+        },
+        "March": {
+          "online": 95000,
+          "offline": 52000
+        },
+        "April": {
+          "online": 94000,
+          "offline": 51000
+        },
+        "May": {
+          "online": 97000,
+          "offline": 54000
+        },
+        "June": {
+          "online": 100000,
+          "offline": 56000
+        },
+        "July": {
+          "online": 105000,
+          "offline": 58000
+        },
+        "August": {
+          "online": 108000,
+          "offline": 59000
+        },
+        "September": {
+          "online": 112000,
+          "offline": 61000
+        },
+        "October": {
+          "online": 115000,
+          "offline": 62000
+        },
+        "November": {
+          "online": 118000,
+          "offline": 63000
+        },
+        "December": {
+          "online": 120000,
+          "offline": 65000
+        }
+      }
+    },
+    "target_vs_reality": {
+      "monthly": {
+        "January": {
+          "target_sales": 95000,
+          "actual_sales": 90000
+        },
+        "February": {
+          "target_sales": 92000,
+          "actual_sales": 87000
+        },
+        "March": {
+          "target_sales": 100000,
+          "actual_sales": 95000
+        },
+        "April": {
+          "target_sales": 97000,
+          "actual_sales": 94000
+        },
+        "May": {
+          "target_sales": 99000,
+          "actual_sales": 97000
+        },
+        "June": {
+          "target_sales": 102000,
+          "actual_sales": 100000
+        },
+        "July": {
+          "target_sales": 107000,
+          "actual_sales": 105000
+        },
+        "August": {
+          "target_sales": 110000,
+          "actual_sales": 108000
+        },
+        "September": {
+          "target_sales": 113000,
+          "actual_sales": 112000
+        },
+        "October": {
+          "target_sales": 117000,
+          "actual_sales": 115000
+        },
+        "November": {
+          "target_sales": 120000,
+          "actual_sales": 118000
+        },
+        "December": {
+          "target_sales": 123000,
+          "actual_sales": 120000
+        }
+      }
+    },
+    "growth_metrics": {
+      "month_over_month_growth": {
+        "monthly": {
+          "January": "4.5%",
+          "February": "-3.3%",
+          "March": "9.2%",
+          "April": "-1.1%",
+          "May": "3.2%",
+          "June": "4.0%",
+          "July": "5.0%",
+          "August": "2.9%",
+          "September": "3.7%",
+          "October": "2.7%",
+          "November": "2.6%",
+          "December": "1.7%"
+        },
+        "average_growth": "3.2%"
+      },
+      "churn_rate": {
+        "monthly": {
+          "January": "6%",
+          "February": "5.8%",
+          "March": "5.5%",
+          "April": "5.6%",
+          "May": "5.4%",
+          "June": "5.3%",
+          "July": "5.2%",
+          "August": "5.1%",
+          "September": "5.0%",
+          "October": "5.0%",
+          "November": "4.9%",
+          "December": "4.8%"
+        },
+        "active_customers": {
+          "January": 1700,
+          "February": 1650,
+          "March": 1800,
+          "April": 1750,
+          "May": 1900,
+          "June": 2000,
+          "July": 2100,
+          "August": 2150,
+          "September": 2250,
+          "October": 2300,
+          "November": 2400,
+          "December": 2500
+        }
+      }
+    }
+  },
+  "customer_insights": {
+    "visitor_insights": {
+      "monthly": {
+        "January": {
+          "loyal_customers": 300,
+          "new_customers": 200,
+          "unique_customers": 450
+        },
+        "February": {
+          "loyal_customers": 320,
+          "new_customers": 210,
+          "unique_customers": 460
+        },
+        "March": {
+          "loyal_customers": 350,
+          "new_customers": 220,
+          "unique_customers": 480
+        },
+        "April": {
+          "loyal_customers": 370,
+          "new_customers": 230,
+          "unique_customers": 490
+        },
+        "May": {
+          "loyal_customers": 390,
+          "new_customers": 240,
+          "unique_customers": 510
+        },
+        "June": {
+          "loyal_customers": 410,
+          "new_customers": 250,
+          "unique_customers": 530
+        },
+        "July": {
+          "loyal_customers": 430,
+          "new_customers": 260,
+          "unique_customers": 550
+        },
+        "August": {
+          "loyal_customers": 450,
+          "new_customers": 270,
+          "unique_customers": 570
+        },
+        "September": {
+          "loyal_customers": 470,
+          "new_customers": 280,
+          "unique_customers": 590
+        },
+        "October": {
+          "loyal_customers": 490,
+          "new_customers": 290,
+          "unique_customers": 610
+        },
+        "November": {
+          "loyal_customers": 510,
+          "new_customers": 300,
+          "unique_customers": 630
+        },
+        "December": {
+          "loyal_customers": 530,
+          "new_customers": 310,
+          "unique_customers": 650
+        }
+      }
+    },
+    "customer_satisfaction": {
+      "monthly": {
+        "January": {
+          "week_1": {
+            "monday": 40,
+            "friday": 120
+          },
+          "week_2": {
+            "monday": 50,
+            "friday": 140
+          },
+          "week_3": {
+            "monday": 60,
+            "friday": 160
+          },
+          "week_4": {
+            "monday": 70,
+            "friday": 180
+          }
+        },
+        "February": {
+          "week_1": {
+            "monday": 45,
+            "friday": 130
+          },
+          "week_2": {
+            "monday": 55,
+            "friday": 150
+          },
+          "week_3": {
+            "monday": 65,
+            "friday": 170
+          },
+          "week_4": {
+            "monday": 75,
+            "friday": 190
+          }
+        },
+        "March": {
+          "week_1": {
+            "monday": 50,
+            "friday": 140
+          },
+          "week_2": {
+            "monday": 60,
+            "friday": 160
+          },
+          "week_3": {
+            "monday": 70,
+            "friday": 180
+          },
+          "week_4": {
+            "monday": 80,
+            "friday": 200
+          }
+        },
+        "April": {
+          "week_1": {
+            "monday": 55,
+            "friday": 150
+          },
+          "week_2": {
+            "monday": 65,
+            "friday": 170
+          },
+          "week_3": {
+            "monday": 75,
+            "friday": 190
+          },
+          "week_4": {
+            "monday": 85,
+            "friday": 210
+          }
+        },
+        "May": {
+          "week_1": {
+            "monday": 60,
+            "friday": 160
+          },
+          "week_2": {
+            "monday": 70,
+            "friday": 180
+          },
+          "week_3": {
+            "monday": 80,
+            "friday": 200
+          },
+          "week_4": {
+            "monday": 90,
+            "friday": 220
+          }
+        },
+        "June": {
+          "week_1": {
+            "monday": 65,
+            "friday": 170
+          },
+          "week_2": {
+            "monday": 75,
+            "friday": 190
+          },
+          "week_3": {
+            "monday": 85,
+            "friday": 210
+          },
+          "week_4": {
+            "monday": 95,
+            "friday": 230
+          }
+        },
+        "July": {
+          "week_1": {
+            "monday": 70,
+            "friday": 180
+          },
+          "week_2": {
+            "monday": 80,
+            "friday": 200
+          },
+          "week_3": {
+            "monday": 90,
+            "friday": 220
+          },
+          "week_4": {
+            "monday": 100,
+            "friday": 240
+          }
+        },
+        "August": {
+          "week_1": {
+            "monday": 75,
+            "friday": 190
+          },
+          "week_2": {
+            "monday": 85,
+            "friday": 210
+          },
+          "week_3": {
+            "monday": 95,
+            "friday": 230
+          },
+          "week_4": {
+            "monday": 105,
+            "friday": 250
+          }
+        },
+        "September": {
+          "week_1": {
+            "monday": 80,
+            "friday": 200
+          },
+          "week_2": {
+            "monday": 90,
+            "friday": 220
+          },
+          "week_3": {
+            "monday": 100,
+            "friday": 240
+          },
+          "week_4": {
+            "monday": 110,
+            "friday": 260
+          }
+        },
+        "October": {
+          "week_1": {
+            "monday": 85,
+            "friday": 210
+          },
+          "week_2": {
+            "monday": 95,
+            "friday": 230
+          },
+          "week_3": {
+            "monday": 105,
+            "friday": 250
+          },
+          "week_4": {
+            "monday": 115,
+            "friday": 270
+          }
+        },
+        "November": {
+          "week_1": {
+            "monday": 90,
+            "friday": 220
+          },
+          "week_2": {
+            "monday": 100,
+            "friday": 240
+          },
+          "week_3": {
+            "monday": 110,
+            "friday": 260
+          },
+          "week_4": {
+            "monday": 120,
+            "friday": 280
+          }
+        },
+        "December": {
+          "week_1": {
+            "monday": 95,
+            "friday": 230
+          },
+          "week_2": {
+            "monday": 105,
+            "friday": 250
+          },
+          "week_3": {
+            "monday": 115,
+            "friday": 270
+          },
+          "week_4": {
+            "monday": 125,
+            "friday": 290
+          }
+        }
+      }
+    },
+    "customer_value_metrics": {
+      "customer_acquisition_cost": {
+        "monthly": {
+          "January": "$48",
+          "February": "$46",
+          "March": "$47",
+          "April": "$45",
+          "May": "$44",
+          "June": "$43",
+          "July": "$42",
+          "August": "$41",
+          "September": "$40",
+          "October": "$39",
+          "November": "$38",
+          "December": "$37"
+        },
+        "average_cac": "$42"
+      },
+      "customer_lifetime_value": {
+        "monthly": {
+          "January": "$500",
+          "February": "$510",
+          "March": "$520",
+          "April": "$530",
+          "May": "$540",
+          "June": "$550",
+          "July": "$560",
+          "August": "$570",
+          "September": "$580",
+          "October": "$590",
+          "November": "$600",
+          "December": "$610"
+        },
+        "average_clv": "$555"
+      }
+    }
+  },
+  "top_products": [
+    {
+      "name": "Route Optimization Software",
+      "popularity": "55%",
+      "sales": 1800
+    },
+    {
+      "name": "Fleet Management Dashboard",
+      "popularity": "35%",
+      "sales": 1200
+    },
+    {
+      "name": "Real-Time Tracking API",
+      "popularity": "25%",
+      "sales": 900
+    },
+    {
+      "name": "Predictive Analytics Tools",
+      "popularity": "20%",
+      "sales": 750
+    }
+  ],
+  "service_levels": {
+    "volume_vs_service_level": {
+      "monthly": {
+        "January": {
+          "volume": 5000,
+          "services": 4900
+        },
+        "February": {
+          "volume": 5200,
+          "services": 5100
+        },
+        "March": {
+          "volume": 5500,
+          "services": 5400
+        },
+        "April": {
+          "volume": 5700,
+          "services": 5600
+        },
+        "May": {
+          "volume": 6000,
+          "services": 5900
+        },
+        "June": {
+          "volume": 6300,
+          "services": 6200
+        },
+        "July": {
+          "volume": 6500,
+          "services": 6400
+        },
+        "August": {
+          "volume": 6700,
+          "services": 6600
+        },
+        "September": {
+          "volume": 7000,
+          "services": 6900
+        },
+        "October": {
+          "volume": 7200,
+          "services": 7100
+        },
+        "November": {
+          "volume": 7500,
+          "services": 7400
+        },
+        "December": {
+          "volume": 7800,
+          "services": 7700
+        }
+      }
+    }
+  },
+  "risk_exposure_index": {
+    "overall_risk_score": 60,
+    "risk_factors": {
+      "financial_risk": {
+        "score": 65,
+        "details": {
+          "runway_months": 8,
+          "burn_rate_increase": 10
+        }
+      },
+      "customer_risk": {
+        "score": 55,
+        "details": {
+          "churn_rate": 10,
+          "dependency_on_top_clients": 35
+        }
+      },
+      "market_risk": {
+        "score": 70,
+        "details": {
+          "competitor_activity_level": "moderate",
+          "market_trends_alignment": 80
+        }
+      },
+      "technical_risk": {
+        "score": 50,
+        "details": {
+          "downtime_hours_last_month": 5,
+          "infrastructure_age": 2
+        }
+      },
+      "compliance_risk": {
+        "score": 45,
+        "details": {
+          "regulatory_issues": 0,
+          "compliance_audit_score": 90
+        }
+      },
+      "employee_risk": {
+        "score": 60,
+        "details": {
+          "turnover_rate": 15,
+          "employee_satisfaction": 70
+        }
+      }
+    },
+    "categories": {
+      "low_risk_threshold": 0,
+      "medium_risk_threshold": 50,
+      "high_risk_threshold": 75
+    }
+  }
+}

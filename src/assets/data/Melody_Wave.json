@@ -1,0 +1,685 @@
+{
+  "name": "MelodyWave Studios",
+  "industry": "Music Production",
+  "founder": "Sophie Carter",
+  "location": "Nashville",
+  "founded_year": 2018,
+  "logo": "/Logo/MelodyWave_Studios.jpg",
+  "description": "MelodyWave Studios is a dynamic music production company creating innovative beats and high-quality tracks for artists and media. By tracking key metrics such as album releases, streaming counts, and artist collaborations, the company drives creative excellence and expands its industry footprint.",
+  "vision": "Our vision is to shape the future of music by producing innovative beats and tracks that inspire artists and listeners, setting new standards in music production and industry collaborations.",
+  "our_values": [
+    {
+      "title": "Creative Excellence",
+      "description": "We strive to deliver innovative music production that resonates with artists and audiences alike."
+    },
+    {
+      "title": "Collaboration and Growth",
+      "description": "By partnering with talented artists, we aim to create impactful music that defines the future of the industry."
+    },
+    {
+      "title": "Data-Driven Success",
+      "description": "We use metrics such as streaming counts and album releases to guide our creative and business strategies."
+    }
+  ],
+  "performance_metrics": {
+    "sales_summary": {
+      "total_sales": "$15k",
+      "total_orders": 120,
+      "products_sold": 3,
+      "new_customers": 5
+    },
+    "total_revenue": {
+      "weekly": {
+        "Monday": {
+          "online": 18000,
+          "offline": 7000
+        },
+        "Tuesday": {
+          "online": 22000,
+          "offline": 8000
+        },
+        "Wednesday": {
+          "online": 12000,
+          "offline": 4000
+        },
+        "Thursday": {
+          "online": 20000,
+          "offline": 6000
+        },
+        "Friday": {
+          "online": 25000,
+          "offline": 9000
+        },
+        "Saturday": {
+          "online": 30000,
+          "offline": 10000
+        },
+        "Sunday": {
+          "online": 35000,
+          "offline": 12000
+        }
+      },
+      "monthly": {
+        "Week 1": {
+          "online": 120000,
+          "offline": 40000
+        },
+        "Week 2": {
+          "online": 150000,
+          "offline": 50000
+        },
+        "Week 3": {
+          "online": 170000,
+          "offline": 60000
+        },
+        "Week 4": {
+          "online": 160000,
+          "offline": 55000
+        }
+      }
+    },
+    "revenue": {
+      "monthly": {
+        "January": {
+          "online": 480000,
+          "offline": 150000
+        },
+        "February": {
+          "online": 450000,
+          "offline": 140000
+        },
+        "March": {
+          "online": 520000,
+          "offline": 170000
+        },
+        "April": {
+          "online": 500000,
+          "offline": 160000
+        },
+        "May": {
+          "online": 550000,
+          "offline": 180000
+        },
+        "June": {
+          "online": 600000,
+          "offline": 200000
+        },
+        "July": {
+          "online": 620000,
+          "offline": 210000
+        },
+        "August": {
+          "online": 640000,
+          "offline": 220000
+        },
+        "September": {
+          "online": 660000,
+          "offline": 230000
+        },
+        "October": {
+          "online": 680000,
+          "offline": 240000
+        },
+        "November": {
+          "online": 700000,
+          "offline": 250000
+        },
+        "December": {
+          "online": 720000,
+          "offline": 260000
+        }
+      }
+    },
+    "target_vs_reality": {
+      "monthly": {
+        "January": {
+          "target_sales": 500000,
+          "actual_sales": 480000
+        },
+        "February": {
+          "target_sales": 470000,
+          "actual_sales": 450000
+        },
+        "March": {
+          "target_sales": 540000,
+          "actual_sales": 520000
+        },
+        "April": {
+          "target_sales": 510000,
+          "actual_sales": 500000
+        },
+        "May": {
+          "target_sales": 570000,
+          "actual_sales": 550000
+        },
+        "June": {
+          "target_sales": 610000,
+          "actual_sales": 600000
+        },
+        "July": {
+          "target_sales": 630000,
+          "actual_sales": 620000
+        },
+        "August": {
+          "target_sales": 650000,
+          "actual_sales": 640000
+        },
+        "September": {
+          "target_sales": 670000,
+          "actual_sales": 660000
+        },
+        "October": {
+          "target_sales": 690000,
+          "actual_sales": 680000
+        },
+        "November": {
+          "target_sales": 710000,
+          "actual_sales": 700000
+        },
+        "December": {
+          "target_sales": 730000,
+          "actual_sales": 720000
+        }
+      }
+    },
+    "growth_metrics": {
+      "month_over_month_growth": {
+        "monthly": {
+          "January": "4%",
+          "February": "-6%",
+          "March": "8%",
+          "April": "-4%",
+          "May": "10%",
+          "June": "7%",
+          "July": "3%",
+          "August": "3%",
+          "September": "3%",
+          "October": "3%",
+          "November": "3%",
+          "December": "3%"
+        },
+        "average_growth": "3.9%"
+      },
+      "churn_rate": {
+        "monthly": {
+          "January": "3.5%",
+          "February": "3.6%",
+          "March": "3.4%",
+          "April": "3.5%",
+          "May": "3.3%",
+          "June": "3.2%",
+          "July": "3.1%",
+          "August": "3.0%",
+          "September": "3.2%",
+          "October": "3.3%",
+          "November": "3.5%",
+          "December": "3.6%"
+        },
+        "active_customers": {
+          "January": 125,
+          "February": 130,
+          "March": 135,
+          "April": 140,
+          "May": 145,
+          "June": 150,
+          "July": 155,
+          "August": 160,
+          "September": 165,
+          "October": 170,
+          "November": 175,
+          "December": 180
+        }
+      }
+    }
+  },
+  "customer_insights": {
+    "visitor_insights": {
+      "monthly": {
+        "January": {
+          "loyal_customers": 50,
+          "new_customers": 20,
+          "unique_customers": 150
+        },
+        "February": {
+          "loyal_customers": 55,
+          "new_customers": 25,
+          "unique_customers": 160
+        },
+        "March": {
+          "loyal_customers": 60,
+          "new_customers": 30,
+          "unique_customers": 170
+        },
+        "April": {
+          "loyal_customers": 65,
+          "new_customers": 35,
+          "unique_customers": 180
+        },
+        "May": {
+          "loyal_customers": 70,
+          "new_customers": 40,
+          "unique_customers": 190
+        },
+        "June": {
+          "loyal_customers": 75,
+          "new_customers": 45,
+          "unique_customers": 200
+        },
+        "July": {
+          "loyal_customers": 80,
+          "new_customers": 50,
+          "unique_customers": 210
+        },
+        "August": {
+          "loyal_customers": 85,
+          "new_customers": 55,
+          "unique_customers": 220
+        },
+        "September": {
+          "loyal_customers": 90,
+          "new_customers": 60,
+          "unique_customers": 230
+        },
+        "October": {
+          "loyal_customers": 95,
+          "new_customers": 65,
+          "unique_customers": 240
+        },
+        "November": {
+          "loyal_customers": 100,
+          "new_customers": 70,
+          "unique_customers": 250
+        },
+        "December": {
+          "loyal_customers": 110,
+          "new_customers": 75,
+          "unique_customers": 260
+        }
+      }
+    },
+    "customer_satisfaction": {
+      "monthly": {
+        "January": {
+          "week_1": {
+            "feedback_received": 25,
+            "positive_reviews": 20
+          },
+          "week_2": {
+            "feedback_received": 30,
+            "positive_reviews": 25
+          },
+          "week_3": {
+            "feedback_received": 35,
+            "positive_reviews": 28
+          },
+          "week_4": {
+            "feedback_received": 40,
+            "positive_reviews": 32
+          }
+        },
+        "February": {
+          "week_1": {
+            "feedback_received": 30,
+            "positive_reviews": 25
+          },
+          "week_2": {
+            "feedback_received": 32,
+            "positive_reviews": 27
+          },
+          "week_3": {
+            "feedback_received": 36,
+            "positive_reviews": 30
+          },
+          "week_4": {
+            "feedback_received": 42,
+            "positive_reviews": 35
+          }
+        },
+        "March": {
+          "week_1": {
+            "feedback_received": 40,
+            "positive_reviews": 32
+          },
+          "week_2": {
+            "feedback_received": 45,
+            "positive_reviews": 36
+          },
+          "week_3": {
+            "feedback_received": 50,
+            "positive_reviews": 40
+          },
+          "week_4": {
+            "feedback_received": 55,
+            "positive_reviews": 45
+          }
+        },
+        "April": {
+          "week_1": {
+            "feedback_received": 45,
+            "positive_reviews": 38
+          },
+          "week_2": {
+            "feedback_received": 48,
+            "positive_reviews": 40
+          },
+          "week_3": {
+            "feedback_received": 52,
+            "positive_reviews": 44
+          },
+          "week_4": {
+            "feedback_received": 58,
+            "positive_reviews": 50
+          }
+        },
+        "May": {
+          "week_1": {
+            "feedback_received": 50,
+            "positive_reviews": 42
+          },
+          "week_2": {
+            "feedback_received": 55,
+            "positive_reviews": 46
+          },
+          "week_3": {
+            "feedback_received": 60,
+            "positive_reviews": 50
+          },
+          "week_4": {
+            "feedback_received": 65,
+            "positive_reviews": 55
+          }
+        },
+        "June": {
+          "week_1": {
+            "feedback_received": 60,
+            "positive_reviews": 50
+          },
+          "week_2": {
+            "feedback_received": 65,
+            "positive_reviews": 55
+          },
+          "week_3": {
+            "feedback_received": 70,
+            "positive_reviews": 60
+          },
+          "week_4": {
+            "feedback_received": 75,
+            "positive_reviews": 65
+          }
+        },
+        "July": {
+          "week_1": {
+            "feedback_received": 70,
+            "positive_reviews": 58
+          },
+          "week_2": {
+            "feedback_received": 75,
+            "positive_reviews": 62
+          },
+          "week_3": {
+            "feedback_received": 80,
+            "positive_reviews": 66
+          },
+          "week_4": {
+            "feedback_received": 85,
+            "positive_reviews": 70
+          }
+        },
+        "August": {
+          "week_1": {
+            "feedback_received": 75,
+            "positive_reviews": 62
+          },
+          "week_2": {
+            "feedback_received": 80,
+            "positive_reviews": 66
+          },
+          "week_3": {
+            "feedback_received": 85,
+            "positive_reviews": 70
+          },
+          "week_4": {
+            "feedback_received": 90,
+            "positive_reviews": 75
+          }
+        },
+        "September": {
+          "week_1": {
+            "feedback_received": 80,
+            "positive_reviews": 66
+          },
+          "week_2": {
+            "feedback_received": 85,
+            "positive_reviews": 70
+          },
+          "week_3": {
+            "feedback_received": 90,
+            "positive_reviews": 75
+          },
+          "week_4": {
+            "feedback_received": 95,
+            "positive_reviews": 80
+          }
+        },
+        "October": {
+          "week_1": {
+            "feedback_received": 85,
+            "positive_reviews": 70
+          },
+          "week_2": {
+            "feedback_received": 90,
+            "positive_reviews": 75
+          },
+          "week_3": {
+            "feedback_received": 95,
+            "positive_reviews": 80
+          },
+          "week_4": {
+            "feedback_received": 100,
+            "positive_reviews": 85
+          }
+        },
+        "November": {
+          "week_1": {
+            "feedback_received": 90,
+            "positive_reviews": 75
+          },
+          "week_2": {
+            "feedback_received": 95,
+            "positive_reviews": 80
+          },
+          "week_3": {
+            "feedback_received": 100,
+            "positive_reviews": 85
+          },
+          "week_4": {
+            "feedback_received": 105,
+            "positive_reviews": 90
+          }
+        },
+        "December": {
+          "week_1": {
+            "feedback_received": 100,
+            "positive_reviews": 85
+          },
+          "week_2": {
+            "feedback_received": 105,
+            "positive_reviews": 90
+          },
+          "week_3": {
+            "feedback_received": 110,
+            "positive_reviews": 95
+          },
+          "week_4": {
+            "feedback_received": 115,
+            "positive_reviews": 100
+          }
+        }
+      }
+    },
+    "customer_value_metrics": {
+      "customer_acquisition_cost": {
+        "monthly": {
+          "January": "$80",
+          "February": "$78",
+          "March": "$76",
+          "April": "$75",
+          "May": "$73",
+          "June": "$72",
+          "July": "$70",
+          "August": "$69",
+          "September": "$68",
+          "October": "$67",
+          "November": "$66",
+          "December": "$65"
+        },
+        "average_cac": "$72"
+      },
+      "customer_lifetime_value": {
+        "monthly": {
+          "January": "$1,200",
+          "February": "$1,250",
+          "March": "$1,300",
+          "April": "$1,350",
+          "May": "$1,400",
+          "June": "$1,450",
+          "July": "$1,500",
+          "August": "$1,550",
+          "September": "$1,600",
+          "October": "$1,650",
+          "November": "$1,700",
+          "December": "$1,750"
+        },
+        "average_clv": "$1,475"
+      }
+    }
+  },
+  "top_products": [
+    {
+      "name": "Custom Soundtracks",
+      "popularity": "55%",
+      "sales": 800
+    },
+    {
+      "name": "Podcast Jingles",
+      "popularity": "35%",
+      "sales": 500
+    },
+    {
+      "name": "Audiobook Background Scores",
+      "popularity": "25%",
+      "sales": 350
+    },
+    {
+      "name": "Royalty-Free Music Packs",
+      "popularity": "40%",
+      "sales": 600
+    }
+  ],
+  "service_levels": {
+    "volume_vs_service_level": {
+      "monthly": {
+        "January": {
+          "volume": 800,
+          "services": 720
+        },
+        "February": {
+          "volume": 820,
+          "services": 740
+        },
+        "March": {
+          "volume": 850,
+          "services": 765
+        },
+        "April": {
+          "volume": 870,
+          "services": 785
+        },
+        "May": {
+          "volume": 890,
+          "services": 800
+        },
+        "June": {
+          "volume": 910,
+          "services": 820
+        },
+        "July": {
+          "volume": 930,
+          "services": 850
+        },
+        "August": {
+          "volume": 950,
+          "services": 870
+        },
+        "September": {
+          "volume": 970,
+          "services": 890
+        },
+        "October": {
+          "volume": 990,
+          "services": 910
+        },
+        "November": {
+          "volume": 1010,
+          "services": 930
+        },
+        "December": {
+          "volume": 1030,
+          "services": 950
+        }
+      }
+    }
+  },
+  "risk_exposure_index": {
+    "overall_risk_score": 62,
+    "risk_factors": {
+      "financial_risk": {
+        "score": 70,
+        "details": {
+          "runway_months": 7,
+          "burn_rate_increase": 12
+        }
+      },
+      "customer_risk": {
+        "score": 55,
+        "details": {
+          "churn_rate": 10,
+          "dependency_on_top_customers": 40
+        }
+      },
+      "market_risk": {
+        "score": 65,
+        "details": {
+          "competitor_activity_level": "medium",
+          "market_trends_alignment": 80
+        }
+      },
+      "technical_risk": {
+        "score": 60,
+        "details": {
+          "downtime_hours_last_month": 6,
+          "infrastructure_age": 2
+        }
+      },
+      "compliance_risk": {
+        "score": 50,
+        "details": {
+          "regulatory_issues": 1,
+          "compliance_audit_score": 90
+        }
+      },
+      "employee_risk": {
+        "score": 65,
+        "details": {
+          "turnover_rate": 12,
+          "employee_satisfaction": 75
+        }
+      }
+    },
+    "categories": {
+      "low_risk_threshold": 0,
+      "medium_risk_threshold": 50,
+      "high_risk_threshold": 80
+    }
+  }
+}

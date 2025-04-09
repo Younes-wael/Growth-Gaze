@@ -1,0 +1,685 @@
+{
+  "name": "AeroSentinel Systems",
+  "industry": "Military Drone Technology",
+  "founder": "James Archer",
+  "location": "Arlington, Virginia",
+  "founded_year": 2019,
+  "logo": "/Logo/AeroSentinel_Systems.jpg",
+  "description": "AeroSentinel Systems specializes in advanced military drone technology for surveillance, reconnaissance, and combat support. By integrating cutting-edge AI and engineering, the company provides solutions tailored to modern defense needs, ensuring operational excellence and tactical advantage.",
+  "vision": "Our vision is to shape the future of military surveillance and support through advanced drone technologies and innovative AI solutions, elevating the defense sector to a new level of precision and efficiency.",
+  "our_values": [
+    {
+      "value": "Innovation",
+      "description": "We focus on cutting-edge technologies and Artificial Intelligence to shape the military tech of the future, staying ahead of the defense industry."
+    },
+    {
+      "value": "Security",
+      "description": "Our emphasis is on providing highly advanced, reliable, and secure solutions that ensure the protection and operational excellence of our partners."
+    },
+    {
+      "value": "Reliability",
+      "description": "Our systems are designed for the highest demands in challenging, real-world environments, offering tactical advantages and maximum efficiency."
+    }
+  ],
+  "performance_metrics": {
+    "sales_summary": {
+      "total_sales": "$12M",
+      "total_orders": 250,
+      "products_sold": 180,
+      "new_customers": 12
+    },
+    "total_revenue": {
+      "weekly": {
+        "Monday": {
+          "online": 500000,
+          "offline": 300000
+        },
+        "Tuesday": {
+          "online": 600000,
+          "offline": 250000
+        },
+        "Wednesday": {
+          "online": 450000,
+          "offline": 350000
+        },
+        "Thursday": {
+          "online": 700000,
+          "offline": 200000
+        },
+        "Friday": {
+          "online": 800000,
+          "offline": 400000
+        },
+        "Saturday": {
+          "online": 900000,
+          "offline": 500000
+        },
+        "Sunday": {
+          "online": 750000,
+          "offline": 450000
+        }
+      },
+      "monthly": {
+        "Week 1": {
+          "online": 2500000,
+          "offline": 1200000
+        },
+        "Week 2": {
+          "online": 2800000,
+          "offline": 1300000
+        },
+        "Week 3": {
+          "online": 3000000,
+          "offline": 1400000
+        },
+        "Week 4": {
+          "online": 2700000,
+          "offline": 1250000
+        }
+      }
+    },
+    "revenue": {
+      "monthly": {
+        "January": {
+          "online": 10000000,
+          "offline": 5000000
+        },
+        "February": {
+          "online": 11000000,
+          "offline": 5500000
+        },
+        "March": {
+          "online": 12000000,
+          "offline": 6000000
+        },
+        "April": {
+          "online": 11500000,
+          "offline": 5700000
+        },
+        "May": {
+          "online": 13000000,
+          "offline": 6500000
+        },
+        "June": {
+          "online": 14000000,
+          "offline": 7000000
+        },
+        "July": {
+          "online": 15000000,
+          "offline": 7500000
+        },
+        "August": {
+          "online": 16000000,
+          "offline": 8000000
+        },
+        "September": {
+          "online": 15500000,
+          "offline": 7700000
+        },
+        "October": {
+          "online": 17000000,
+          "offline": 8500000
+        },
+        "November": {
+          "online": 17500000,
+          "offline": 8700000
+        },
+        "December": {
+          "online": 18000000,
+          "offline": 9000000
+        }
+      }
+    },
+    "target_vs_reality": {
+      "monthly": {
+        "January": {
+          "target_revenue": 16000000,
+          "actual_revenue": 15000000
+        },
+        "February": {
+          "target_sales": 17000000,
+          "actual_sales": 16500000
+        },
+        "March": {
+          "target_sales": 18000000,
+          "actual_sales": 17500000
+        },
+        "April": {
+          "target_sales": 17500000,
+          "actual_sales": 17200000
+        },
+        "May": {
+          "target_sales": 19000000,
+          "actual_sales": 18500000
+        },
+        "June": {
+          "target_sales": 20000000,
+          "actual_sales": 19500000
+        },
+        "July": {
+          "target_sales": 21000000,
+          "actual_sales": 20500000
+        },
+        "August": {
+          "target_sales": 22000000,
+          "actual_sales": 21500000
+        },
+        "September": {
+          "target_sales": 21500000,
+          "actual_sales": 21200000
+        },
+        "October": {
+          "target_sales": 23000000,
+          "actual_sales": 22500000
+        },
+        "November": {
+          "target_sales": 23500000,
+          "actual_sales": 23000000
+        },
+        "December": {
+          "target_sales": 24000000,
+          "actual_sales": 23500000
+        }
+      }
+    },
+    "growth_metrics": {
+      "month_over_month_growth": {
+        "monthly": {
+          "January": "5%",
+          "February": "10%",
+          "March": "8%",
+          "April": "7%",
+          "May": "12%",
+          "June": "15%",
+          "July": "10%",
+          "August": "5%",
+          "September": "7%",
+          "October": "8%",
+          "November": "6%",
+          "December": "10%"
+        },
+        "average_growth": "8.8%"
+      },
+      "churn_rate": {
+        "monthly": {
+          "January": "3%",
+          "February": "2.8%",
+          "March": "2.5%",
+          "April": "2.3%",
+          "May": "2.2%",
+          "June": "2.0%",
+          "July": "1.9%",
+          "August": "2.1%",
+          "September": "2.0%",
+          "October": "1.8%",
+          "November": "1.9%",
+          "December": "1.7%"
+        },
+        "active_customers": {
+          "January": 100,
+          "February": 105,
+          "March": 110,
+          "April": 115,
+          "May": 120,
+          "June": 125,
+          "July": 130,
+          "August": 135,
+          "September": 140,
+          "October": 145,
+          "November": 150,
+          "December": 155
+        }
+      }
+    }
+  },
+  "customer_insights": {
+    "visitor_insights": {
+      "monthly": {
+        "January": {
+          "loyal_customers": 20,
+          "new_customers": 15,
+          "unique_customers": 300
+        },
+        "February": {
+          "loyal_customers": 22,
+          "new_customers": 18,
+          "unique_customers": 320
+        },
+        "March": {
+          "loyal_customers": 25,
+          "new_customers": 20,
+          "unique_customers": 350
+        },
+        "April": {
+          "loyal_customers": 27,
+          "new_customers": 22,
+          "unique_customers": 370
+        },
+        "May": {
+          "loyal_customers": 30,
+          "new_customers": 25,
+          "unique_customers": 400
+        },
+        "June": {
+          "loyal_customers": 35,
+          "new_customers": 28,
+          "unique_customers": 430
+        },
+        "July": {
+          "loyal_customers": 40,
+          "new_customers": 30,
+          "unique_customers": 450
+        },
+        "August": {
+          "loyal_customers": 45,
+          "new_customers": 32,
+          "unique_customers": 480
+        },
+        "September": {
+          "loyal_customers": 50,
+          "new_customers": 35,
+          "unique_customers": 500
+        },
+        "October": {
+          "loyal_customers": 55,
+          "new_customers": 38,
+          "unique_customers": 530
+        },
+        "November": {
+          "loyal_customers": 60,
+          "new_customers": 40,
+          "unique_customers": 560
+        },
+        "December": {
+          "loyal_customers": 65,
+          "new_customers": 45,
+          "unique_customers": 600
+        }
+      }
+    },
+    "customer_satisfaction": {
+      "monthly": {
+        "January": {
+          "week_1": {
+            "monday": 120,
+            "friday": 200
+          },
+          "week_2": {
+            "monday": 150,
+            "friday": 250
+          },
+          "week_3": {
+            "monday": 180,
+            "friday": 300
+          },
+          "week_4": {
+            "monday": 200,
+            "friday": 350
+          }
+        },
+        "February": {
+          "week_1": {
+            "monday": 130,
+            "friday": 210
+          },
+          "week_2": {
+            "monday": 160,
+            "friday": 260
+          },
+          "week_3": {
+            "monday": 190,
+            "friday": 310
+          },
+          "week_4": {
+            "monday": 220,
+            "friday": 360
+          }
+        },
+        "March": {
+          "week_1": {
+            "monday": 140,
+            "friday": 220
+          },
+          "week_2": {
+            "monday": 170,
+            "friday": 270
+          },
+          "week_3": {
+            "monday": 200,
+            "friday": 320
+          },
+          "week_4": {
+            "monday": 230,
+            "friday": 370
+          }
+        },
+        "April": {
+          "week_1": {
+            "monday": 150,
+            "friday": 230
+          },
+          "week_2": {
+            "monday": 180,
+            "friday": 280
+          },
+          "week_3": {
+            "monday": 210,
+            "friday": 330
+          },
+          "week_4": {
+            "monday": 240,
+            "friday": 380
+          }
+        },
+        "May": {
+          "week_1": {
+            "monday": 160,
+            "friday": 240
+          },
+          "week_2": {
+            "monday": 190,
+            "friday": 290
+          },
+          "week_3": {
+            "monday": 220,
+            "friday": 340
+          },
+          "week_4": {
+            "monday": 250,
+            "friday": 390
+          }
+        },
+        "June": {
+          "week_1": {
+            "monday": 170,
+            "friday": 250
+          },
+          "week_2": {
+            "monday": 200,
+            "friday": 300
+          },
+          "week_3": {
+            "monday": 230,
+            "friday": 350
+          },
+          "week_4": {
+            "monday": 260,
+            "friday": 400
+          }
+        },
+        "July": {
+          "week_1": {
+            "monday": 180,
+            "friday": 260
+          },
+          "week_2": {
+            "monday": 210,
+            "friday": 310
+          },
+          "week_3": {
+            "monday": 240,
+            "friday": 360
+          },
+          "week_4": {
+            "monday": 270,
+            "friday": 410
+          }
+        },
+        "August": {
+          "week_1": {
+            "monday": 190,
+            "friday": 270
+          },
+          "week_2": {
+            "monday": 220,
+            "friday": 320
+          },
+          "week_3": {
+            "monday": 250,
+            "friday": 370
+          },
+          "week_4": {
+            "monday": 280,
+            "friday": 420
+          }
+        },
+        "September": {
+          "week_1": {
+            "monday": 200,
+            "friday": 280
+          },
+          "week_2": {
+            "monday": 230,
+            "friday": 330
+          },
+          "week_3": {
+            "monday": 260,
+            "friday": 380
+          },
+          "week_4": {
+            "monday": 290,
+            "friday": 430
+          }
+        },
+        "October": {
+          "week_1": {
+            "monday": 210,
+            "friday": 290
+          },
+          "week_2": {
+            "monday": 240,
+            "friday": 340
+          },
+          "week_3": {
+            "monday": 270,
+            "friday": 390
+          },
+          "week_4": {
+            "monday": 300,
+            "friday": 440
+          }
+        },
+        "November": {
+          "week_1": {
+            "monday": 220,
+            "friday": 300
+          },
+          "week_2": {
+            "monday": 250,
+            "friday": 350
+          },
+          "week_3": {
+            "monday": 280,
+            "friday": 400
+          },
+          "week_4": {
+            "monday": 310,
+            "friday": 450
+          }
+        },
+        "December": {
+          "week_1": {
+            "monday": 230,
+            "friday": 310
+          },
+          "week_2": {
+            "monday": 260,
+            "friday": 360
+          },
+          "week_3": {
+            "monday": 290,
+            "friday": 410
+          },
+          "week_4": {
+            "monday": 320,
+            "friday": 460
+          }
+        }
+      }
+    },
+    "customer_value_metrics": {
+      "customer_acquisition_cost": {
+        "monthly": {
+          "January": "$200",
+          "February": "$190",
+          "March": "$180",
+          "April": "$175",
+          "May": "$170",
+          "June": "$165",
+          "July": "$160",
+          "August": "$155",
+          "September": "$150",
+          "October": "$145",
+          "November": "$140",
+          "December": "$135"
+        },
+        "average_cac": "$165"
+      },
+      "customer_lifetime_value": {
+        "monthly": {
+          "January": "$5,000",
+          "February": "$5,200",
+          "March": "$5,400",
+          "April": "$5,500",
+          "May": "$5,600",
+          "June": "$5,700",
+          "July": "$5,800",
+          "August": "$5,900",
+          "September": "$6,000",
+          "October": "$6,100",
+          "November": "$6,200",
+          "December": "$6,300"
+        },
+        "average_clv": "$5,875"
+      }
+    }
+  },
+  "top_products": [
+    {
+      "name": "Surveillance Drone X1",
+      "popularity": "65%",
+      "sales": 150
+    },
+    {
+      "name": "Reconnaissance Drone R2",
+      "popularity": "50%",
+      "sales": 120
+    },
+    {
+      "name": "Combat Drone C3",
+      "popularity": "40%",
+      "sales": 100
+    },
+    {
+      "name": "Custom AI-Enabled Drone",
+      "popularity": "30%",
+      "sales": 80
+    }
+  ],
+  "service_levels": {
+    "volume_vs_service_level": {
+      "monthly": {
+        "January": {
+          "volume": 300,
+          "services": 280
+        },
+        "February": {
+          "volume": 320,
+          "services": 300
+        },
+        "March": {
+          "volume": 350,
+          "services": 330
+        },
+        "April": {
+          "volume": 370,
+          "services": 350
+        },
+        "May": {
+          "volume": 400,
+          "services": 380
+        },
+        "June": {
+          "volume": 430,
+          "services": 400
+        },
+        "July": {
+          "volume": 450,
+          "services": 420
+        },
+        "August": {
+          "volume": 480,
+          "services": 450
+        },
+        "September": {
+          "volume": 500,
+          "services": 470
+        },
+        "October": {
+          "volume": 520,
+          "services": 490
+        },
+        "November": {
+          "volume": 540,
+          "services": 510
+        },
+        "December": {
+          "volume": 560,
+          "services": 530
+        }
+      }
+    }
+  },
+  "risk_exposure_index": {
+    "overall_risk_score": 68,
+    "risk_factors": {
+      "financial_risk": {
+        "score": 75,
+        "details": {
+          "runway_months": 8,
+          "burn_rate_increase": 10
+        }
+      },
+      "customer_risk": {
+        "score": 60,
+        "details": {
+          "churn_rate": 8,
+          "dependency_on_top_customers": 35
+        }
+      },
+      "market_risk": {
+        "score": 70,
+        "details": {
+          "competitor_activity_level": "high",
+          "market_trends_alignment": 85
+        }
+      },
+      "technical_risk": {
+        "score": 65,
+        "details": {
+          "downtime_hours_last_month": 4,
+          "infrastructure_age": 2
+        }
+      },
+      "compliance_risk": {
+        "score": 55,
+        "details": {
+          "regulatory_issues": 2,
+          "compliance_audit_score": 88
+        }
+      },
+      "employee_risk": {
+        "score": 60,
+        "details": {
+          "turnover_rate": 10,
+          "employee_satisfaction": 80
+        }
+      }
+    },
+    "categories": {
+      "low_risk_threshold": 0,
+      "medium_risk_threshold": 50,
+      "high_risk_threshold": 80
+    }
+  }
+}

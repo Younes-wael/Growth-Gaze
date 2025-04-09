@@ -1,0 +1,685 @@
+{
+  "name": "EduNova Learning",
+  "industry": "Education",
+  "founder": "Sophia Carter",
+  "location": "Boston",
+  "founded_year": 2021,
+  "logo": "/Logo/EduNova_Learning.jpg",
+  "description": "EduNova Learning is an innovative education startup that focuses on personalized learning experiences through technology. By leveraging metrics such as student progress, engagement levels, and satisfaction rates, EduNova aims to revolutionize learning and make education accessible and impactful.",
+  "vision": "Our vision is to redefine the educational experience by leveraging technology to provide personalized learning, making education more accessible and impactful for every student.",
+  "our_values": [
+    {
+      "title": "Personalized Learning Experiences",
+      "description": "We focus on creating tailored educational paths that empower every student to achieve their fullest potential."
+    },
+    {
+      "title": "Technology-Driven Education",
+      "description": "Our platform leverages cutting-edge technology to enhance engagement, track progress, and deliver impactful learning."
+    },
+    {
+      "title": "Accessibility and Impact",
+      "description": "We are dedicated to making high-quality education accessible to learners everywhere, fostering growth and innovation."
+    }
+  ],
+  "performance_metrics": {
+    "sales_summary": {
+      "total_sales": "$10k",
+      "total_orders": 150,
+      "products_sold": 3,
+      "new_customers": 25
+    },
+    "total_revenue": {
+      "weekly": {
+        "Monday": {
+          "online": 8000,
+          "offline": 2000
+        },
+        "Tuesday": {
+          "online": 9000,
+          "offline": 2500
+        },
+        "Wednesday": {
+          "online": 7000,
+          "offline": 3000
+        },
+        "Thursday": {
+          "online": 8500,
+          "offline": 2800
+        },
+        "Friday": {
+          "online": 9500,
+          "offline": 2700
+        },
+        "Saturday": {
+          "online": 10000,
+          "offline": 3200
+        },
+        "Sunday": {
+          "online": 11000,
+          "offline": 3500
+        }
+      },
+      "monthly": {
+        "Week 1": {
+          "online": 32000,
+          "offline": 12000
+        },
+        "Week 2": {
+          "online": 34000,
+          "offline": 13000
+        },
+        "Week 3": {
+          "online": 36000,
+          "offline": 14000
+        },
+        "Week 4": {
+          "online": 38000,
+          "offline": 15000
+        }
+      }
+    },
+    "revenue": {
+      "monthly": {
+        "January": {
+          "online": 40000,
+          "offline": 10000
+        },
+        "February": {
+          "online": 38000,
+          "offline": 12000
+        },
+        "March": {
+          "online": 42000,
+          "offline": 11000
+        },
+        "April": {
+          "online": 43000,
+          "offline": 11500
+        },
+        "May": {
+          "online": 45000,
+          "offline": 12000
+        },
+        "June": {
+          "online": 46000,
+          "offline": 12500
+        },
+        "July": {
+          "online": 47000,
+          "offline": 13000
+        },
+        "August": {
+          "online": 48000,
+          "offline": 13500
+        },
+        "September": {
+          "online": 49000,
+          "offline": 14000
+        },
+        "October": {
+          "online": 50000,
+          "offline": 14500
+        },
+        "November": {
+          "online": 51000,
+          "offline": 15000
+        },
+        "December": {
+          "online": 52000,
+          "offline": 15500
+        }
+      }
+    },
+    "target_vs_reality": {
+      "monthly": {
+        "January": {
+          "target_sales": 20000,
+          "actual_sales": 19500
+        },
+        "February": {
+          "target_sales": 19000,
+          "actual_sales": 18500
+        },
+        "March": {
+          "target_sales": 21000,
+          "actual_sales": 20500
+        },
+        "April": {
+          "target_sales": 22000,
+          "actual_sales": 21500
+        },
+        "May": {
+          "target_sales": 23000,
+          "actual_sales": 22500
+        },
+        "June": {
+          "target_sales": 24000,
+          "actual_sales": 23500
+        },
+        "July": {
+          "target_sales": 25000,
+          "actual_sales": 24500
+        },
+        "August": {
+          "target_sales": 26000,
+          "actual_sales": 25500
+        },
+        "September": {
+          "target_sales": 27000,
+          "actual_sales": 26500
+        },
+        "October": {
+          "target_sales": 28000,
+          "actual_sales": 27500
+        },
+        "November": {
+          "target_sales": 29000,
+          "actual_sales": 28500
+        },
+        "December": {
+          "target_sales": 30000,
+          "actual_sales": 29500
+        }
+      }
+    },
+    "growth_metrics": {
+      "month_over_month_growth": {
+        "monthly": {
+          "January": "3.2%",
+          "February": "2.5%",
+          "March": "4.0%",
+          "April": "2.6%",
+          "May": "2.9%",
+          "June": "3.0%",
+          "July": "3.1%",
+          "August": "3.2%",
+          "September": "3.3%",
+          "October": "3.4%",
+          "November": "3.5%",
+          "December": "3.6%"
+        },
+        "average_growth": "3.1%"
+      },
+      "churn_rate": {
+        "monthly": {
+          "January": "6.0%",
+          "February": "5.5%",
+          "March": "5.0%",
+          "April": "4.8%",
+          "May": "4.5%",
+          "June": "4.3%",
+          "July": "4.0%",
+          "August": "3.8%",
+          "September": "3.5%",
+          "October": "3.3%",
+          "November": "3.0%",
+          "December": "2.8%"
+        },
+        "active_customers": {
+          "January": 800,
+          "February": 850,
+          "March": 900,
+          "April": 950,
+          "May": 1000,
+          "June": 1050,
+          "July": 1100,
+          "August": 1150,
+          "September": 1200,
+          "October": 1250,
+          "November": 1300,
+          "December": 1350
+        }
+      }
+    }
+  },
+  "customer_insights": {
+    "visitor_insights": {
+      "monthly": {
+        "January": {
+          "loyal_customers": 120,
+          "new_customers": 80,
+          "unique_customers": 150
+        },
+        "February": {
+          "loyal_customers": 130,
+          "new_customers": 90,
+          "unique_customers": 160
+        },
+        "March": {
+          "loyal_customers": 140,
+          "new_customers": 100,
+          "unique_customers": 170
+        },
+        "April": {
+          "loyal_customers": 150,
+          "new_customers": 110,
+          "unique_customers": 180
+        },
+        "May": {
+          "loyal_customers": 160,
+          "new_customers": 120,
+          "unique_customers": 190
+        },
+        "June": {
+          "loyal_customers": 170,
+          "new_customers": 130,
+          "unique_customers": 200
+        },
+        "July": {
+          "loyal_customers": 180,
+          "new_customers": 140,
+          "unique_customers": 210
+        },
+        "August": {
+          "loyal_customers": 190,
+          "new_customers": 150,
+          "unique_customers": 220
+        },
+        "September": {
+          "loyal_customers": 200,
+          "new_customers": 160,
+          "unique_customers": 230
+        },
+        "October": {
+          "loyal_customers": 210,
+          "new_customers": 170,
+          "unique_customers": 240
+        },
+        "November": {
+          "loyal_customers": 220,
+          "new_customers": 180,
+          "unique_customers": 250
+        },
+        "December": {
+          "loyal_customers": 230,
+          "new_customers": 190,
+          "unique_customers": 260
+        }
+      }
+    },
+    "customer_satisfaction": {
+      "monthly": {
+        "January": {
+          "week_1": {
+            "monday": 85,
+            "friday": 95
+          },
+          "week_2": {
+            "monday": 80,
+            "friday": 100
+          },
+          "week_3": {
+            "monday": 90,
+            "friday": 105
+          },
+          "week_4": {
+            "monday": 95,
+            "friday": 110
+          }
+        },
+        "February": {
+          "week_1": {
+            "monday": 90,
+            "friday": 100
+          },
+          "week_2": {
+            "monday": 95,
+            "friday": 110
+          },
+          "week_3": {
+            "monday": 100,
+            "friday": 120
+          },
+          "week_4": {
+            "monday": 105,
+            "friday": 125
+          }
+        },
+        "March": {
+          "week_1": {
+            "monday": 100,
+            "friday": 110
+          },
+          "week_2": {
+            "monday": 105,
+            "friday": 115
+          },
+          "week_3": {
+            "monday": 110,
+            "friday": 120
+          },
+          "week_4": {
+            "monday": 115,
+            "friday": 130
+          }
+        },
+        "April": {
+          "week_1": {
+            "monday": 120,
+            "friday": 130
+          },
+          "week_2": {
+            "monday": 125,
+            "friday": 135
+          },
+          "week_3": {
+            "monday": 130,
+            "friday": 140
+          },
+          "week_4": {
+            "monday": 135,
+            "friday": 145
+          }
+        },
+        "May": {
+          "week_1": {
+            "monday": 140,
+            "friday": 150
+          },
+          "week_2": {
+            "monday": 145,
+            "friday": 155
+          },
+          "week_3": {
+            "monday": 150,
+            "friday": 160
+          },
+          "week_4": {
+            "monday": 155,
+            "friday": 165
+          }
+        },
+        "June": {
+          "week_1": {
+            "monday": 160,
+            "friday": 170
+          },
+          "week_2": {
+            "monday": 165,
+            "friday": 175
+          },
+          "week_3": {
+            "monday": 170,
+            "friday": 180
+          },
+          "week_4": {
+            "monday": 175,
+            "friday": 185
+          }
+        },
+        "July": {
+          "week_1": {
+            "monday": 180,
+            "friday": 190
+          },
+          "week_2": {
+            "monday": 185,
+            "friday": 195
+          },
+          "week_3": {
+            "monday": 190,
+            "friday": 200
+          },
+          "week_4": {
+            "monday": 195,
+            "friday": 205
+          }
+        },
+        "August": {
+          "week_1": {
+            "monday": 200,
+            "friday": 210
+          },
+          "week_2": {
+            "monday": 205,
+            "friday": 215
+          },
+          "week_3": {
+            "monday": 210,
+            "friday": 220
+          },
+          "week_4": {
+            "monday": 215,
+            "friday": 225
+          }
+        },
+        "September": {
+          "week_1": {
+            "monday": 220,
+            "friday": 230
+          },
+          "week_2": {
+            "monday": 225,
+            "friday": 235
+          },
+          "week_3": {
+            "monday": 230,
+            "friday": 240
+          },
+          "week_4": {
+            "monday": 235,
+            "friday": 245
+          }
+        },
+        "October": {
+          "week_1": {
+            "monday": 240,
+            "friday": 250
+          },
+          "week_2": {
+            "monday": 245,
+            "friday": 255
+          },
+          "week_3": {
+            "monday": 250,
+            "friday": 260
+          },
+          "week_4": {
+            "monday": 255,
+            "friday": 265
+          }
+        },
+        "November": {
+          "week_1": {
+            "monday": 260,
+            "friday": 270
+          },
+          "week_2": {
+            "monday": 265,
+            "friday": 275
+          },
+          "week_3": {
+            "monday": 270,
+            "friday": 280
+          },
+          "week_4": {
+            "monday": 275,
+            "friday": 285
+          }
+        },
+        "December": {
+          "week_1": {
+            "monday": 280,
+            "friday": 290
+          },
+          "week_2": {
+            "monday": 285,
+            "friday": 295
+          },
+          "week_3": {
+            "monday": 290,
+            "friday": 300
+          },
+          "week_4": {
+            "monday": 295,
+            "friday": 305
+          }
+        }
+      }
+    },
+    "customer_value_metrics": {
+      "customer_acquisition_cost": {
+        "monthly": {
+          "January": "$40",
+          "February": "$38",
+          "March": "$37",
+          "April": "$36",
+          "May": "$35",
+          "June": "$34",
+          "July": "$33",
+          "August": "$32",
+          "September": "$31",
+          "October": "$30",
+          "November": "$29",
+          "December": "$28"
+        },
+        "average_cac": "$34"
+      },
+      "customer_lifetime_value": {
+        "monthly": {
+          "January": "$420",
+          "February": "$425",
+          "March": "$430",
+          "April": "$435",
+          "May": "$440",
+          "June": "$445",
+          "July": "$450",
+          "August": "$455",
+          "September": "$460",
+          "October": "$465",
+          "November": "$470",
+          "December": "$475"
+        },
+        "average_clv": "$447"
+      }
+    }
+  },
+  "top_products": [
+    {
+      "name": "Online Learning Platform Subscription",
+      "popularity": "55%",
+      "sales": 1230
+    },
+    {
+      "name": "Interactive Study Guides",
+      "popularity": "35%",
+      "sales": 875
+    },
+    {
+      "name": "Virtual Tutoring Packages",
+      "popularity": "25%",
+      "sales": 670
+    },
+    {
+      "name": "Career Skill Development Courses",
+      "popularity": "40%",
+      "sales": 980
+    }
+  ],
+  "service_levels": {
+    "volume_vs_service_level": {
+      "monthly": {
+        "January": {
+          "volume": 1200,
+          "services": 1150
+        },
+        "February": {
+          "volume": 1220,
+          "services": 1170
+        },
+        "March": {
+          "volume": 1240,
+          "services": 1190
+        },
+        "April": {
+          "volume": 1260,
+          "services": 1210
+        },
+        "May": {
+          "volume": 1280,
+          "services": 1230
+        },
+        "June": {
+          "volume": 1300,
+          "services": 1250
+        },
+        "July": {
+          "volume": 1320,
+          "services": 1270
+        },
+        "August": {
+          "volume": 1340,
+          "services": 1290
+        },
+        "September": {
+          "volume": 1360,
+          "services": 1310
+        },
+        "October": {
+          "volume": 1380,
+          "services": 1330
+        },
+        "November": {
+          "volume": 1400,
+          "services": 1350
+        },
+        "December": {
+          "volume": 1420,
+          "services": 1370
+        }
+      }
+    }
+  },
+  "risk_exposure_index": {
+    "overall_risk_score": 50,
+    "risk_factors": {
+      "financial_risk": {
+        "score": 60,
+        "details": {
+          "runway_months": 12,
+          "burn_rate_increase": 5
+        }
+      },
+      "customer_risk": {
+        "score": 55,
+        "details": {
+          "churn_rate": 8,
+          "dependency_on_top_clients": 20
+        }
+      },
+      "market_risk": {
+        "score": 65,
+        "details": {
+          "competitor_activity_level": "moderate",
+          "market_trends_alignment": 85
+        }
+      },
+      "technical_risk": {
+        "score": 40,
+        "details": {
+          "downtime_hours_last_month": 2,
+          "infrastructure_age": 1
+        }
+      },
+      "compliance_risk": {
+        "score": 30,
+        "details": {
+          "regulatory_issues": 0,
+          "compliance_audit_score": 95
+        }
+      },
+      "employee_risk": {
+        "score": 45,
+        "details": {
+          "turnover_rate": 10,
+          "employee_satisfaction": 80
+        }
+      }
+    },
+    "categories": {
+      "low_risk_threshold": 0,
+      "medium_risk_threshold": 50,
+      "high_risk_threshold": 80
+    }
+  }
+}
